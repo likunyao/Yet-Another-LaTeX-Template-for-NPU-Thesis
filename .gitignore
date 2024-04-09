@@ -12,3 +12,11 @@
 *.aux
 *.lof
 *.lot
+*.DS_Store
+.vscode/settings.json
+*.idx
+*.nlo
+*.hd
+zhmakeindex
+yanputhesis.pdf
+yanputhesis-sample.pdf
